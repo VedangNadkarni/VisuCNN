@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-./state_dicts/
-./models/
+./state_dicts/*
+./models/*
